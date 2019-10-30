@@ -25,22 +25,10 @@ div {
 }
 
 .btn-small {
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  border-width: 3px;
-  color: #fff;
-  text-decoration: none;
-  display: inline-block;
   font-size: .875rem;
 }
 
 .btn-big {
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  border-width: 3px;
-  color: #fff;
-  text-decoration: none;
-  display: inline-block;
   font-size: 1.5rem;
 }
 
@@ -63,7 +51,7 @@ div {
   background-color: #f33;
   border-width: 3px;
   border-style: solid;
-  border-color: #f333;
+  border-color: #f33;
 }
 
 .btn:hover {
